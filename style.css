@@ -20,7 +20,7 @@
     outline: none;
     scroll-behavior: smooth;
     font-family: "Popins", sans-serif;
-    overflow-x: hidden;
+    overflow: hidden;
 }
 
 :root {
